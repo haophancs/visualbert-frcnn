@@ -1,0 +1,16 @@
+accelerate
+datasets
+nltk
+numpy
+opencv-python
+pandas
+pillow
+pyaml
+rouge_score
+scikit-learn
+torch
+torchvision
+tqdm
+transformers
+underthesea
+wget
